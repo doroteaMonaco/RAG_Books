@@ -1,20 +1,23 @@
 {
     "chunk_compression": null,
-    "dtype": "str",
+    "dtype": "Any",
     "hidden": false,
-    "htype": "text",
+    "htype": "json",
     "is_link": false,
     "is_sequence": false,
-    "length": 0,
+    "length": 1,
     "links": {},
     "max_chunk_size": null,
-    "max_shape": [],
-    "min_shape": [],
-    "name": "text",
+    "max_shape": [
+        1
+    ],
+    "min_shape": [
+        1
+    ],
+    "name": "metadata",
     "sample_compression": null,
     "tiling_threshold": null,
     "typestr": null,
-    "vdb_indexes": [],
     "verify": true,
     "version": "3.9.52"
 }
