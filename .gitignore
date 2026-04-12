@@ -14,3 +14,7 @@ __pycache__/
 # OS generated files
 .DS_Store
 Thumbs.db
+# Local vector stores - generated data, should not be committed
+local_vectorstore/
+*.sqlite3
+dory_vectorstore/
